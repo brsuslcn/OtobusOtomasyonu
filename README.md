@@ -1,7 +1,7 @@
 # Barış USLUCAN - Otobüs Otomasyonu
 
 
-The application consists of 10 forms: MainMenu.cs, Private Seats.cs, Define Bus, SatisRezervasyon.cs, SeferTanim.cs, SvR.cs, DefinedSeferler.cs, GirisPaneli.cs, SifreSifirlama.cs and AllReservations.cs.
+The application consists of 10 forms: AnaMenu.cs, OzelKoltuklar.cs, OtobusTanimla, SatisRezervasyon.cs, SeferTanim.cs, SvR.cs, TanımlıSeferler.cs, GirisPaneli.cs SifreSifirlama.cs and TumKayitlar.cs 
 
 GirisPaneli.cs: It is the form that is projected before login to automation. The user is prompted to enter the username and password. Username: Baris and Password: barisuslucan.com.tr.
 
